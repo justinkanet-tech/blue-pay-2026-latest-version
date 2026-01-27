@@ -102,7 +102,7 @@ const BuyBPCTransfer = () => {
 
         <div className="mb-4 border-t pt-4">
           <p className="text-gray-500 text-sm">Account Name</p>
-          <p className="text-2xl font-bold">AHMAD-IBRAHIM</p>
+          <p className="text-2xl font-bold">AHMAD/IBRAHIM</p>
         </div>
       </div>
 
